@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataStructuresTask/1.0.0": {
+        "runtime": {
+          "DataStructuresTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataStructuresTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

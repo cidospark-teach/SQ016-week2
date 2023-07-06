@@ -1,0 +1,39 @@
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.exe
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.deps.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.runtimeconfig.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.runtimeconfig.dev.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.pdb
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.AssemblyInfoInputs.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.AssemblyInfo.cs
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.csproj.CoreCompileInputs.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.pdb
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.genruntimeconfig.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 2/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.csprojAssemblyReference.cache
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.deps.json
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.runtimeconfig.json
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.runtimeconfig.dev.json
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.dll
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.pdb
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.csproj.AssemblyReference.cache
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.AssemblyInfoInputs.cache
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.AssemblyInfo.cs
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.dll
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.pdb
+/Users/macbook/Projects/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.genruntimeconfig.cache
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.deps.json
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.runtimeconfig.json
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.runtimeconfig.dev.json
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.dll
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/bin/Debug/netcoreapp3.1/DataStructuresTask.pdb
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.AssemblyInfo.cs
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.dll
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.pdb
+/Users/macbook/Projects/SQ009/Task solutions/DataStructuresTask/DataStructuresTask/obj/Debug/netcoreapp3.1/DataStructuresTask.genruntimeconfig.cache
